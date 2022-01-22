@@ -1,5 +1,3 @@
-# [MaDrGitHub](https://github.com/MaDrCloudDev)
+# [MaDrCloudDev](https://github.com/MaDrCloudDev)
 
-## MaDrCloudDev
-
-# [MaDrLanding](https://MaDrCloudDev.github.io)
+# [MaDr](https://MaDrCloudDev.github.io)
